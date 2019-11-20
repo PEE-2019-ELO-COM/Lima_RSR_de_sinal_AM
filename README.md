@@ -10,6 +10,14 @@ IMPORTANTE:1)A versao do MATLAB utilizada foi a R2019b, outras versões podem n�
            arquivo .mlapp
            3)Algumas funcionalidades, como a escolha do nome do arquivo e a SNR antes da demodulação, ainda não foram implementadas e                estão em desenvolvimento para a versão 2.0 do app.
 
+FLuxograma:
+![Fluxograma](https://github.com/PEE-2019-ELO-COM/Lima_RSR_de_sinal_AM/blob/master/Fluxograma%20APP%20SNR.PNG)
+
+
+GUI:
+![GUI](https://github.com/PEE-2019-ELO-COM/Lima_RSR_de_sinal_AM/blob/master/MATLAB_GUI.md)
+
+
 Diagrama de Classes e Relacionamentos(corrigido):
 ![Diagrama corrigido](https://github.com/PEE-2019-ELO-COM/Lima_RSR_de_sinal_AM/blob/master/Diagrama%20de%20Classes%20e%20Relacionamentos(corrigido).PNG)
 
