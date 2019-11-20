@@ -9,3 +9,6 @@ IMPORTANTE:1)A versao do MATLAB utilizada foi a R2019b, outras versões podem n�
            2)Para executar o app SNR_Analyzer, é necessário que o arquivo .bin e o arquivo Sinal.m estejam na mesma pasta do
            arquivo .mlapp
            3)Algumas funcionalidades, como a escolha do nome do arquivo e a SNR antes da demodulação, ainda não foram implementadas e                estão em desenvolvimento para a versão 2.0 do app.
+
+Diagrama de Classes e Relacionamentos(corrigido):
+
