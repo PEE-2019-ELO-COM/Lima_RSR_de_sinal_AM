@@ -15,7 +15,7 @@ FLuxograma:
 
 
 GUI:
-![GUI](https://github.com/PEE-2019-ELO-COM/Lima_RSR_de_sinal_AM/blob/master/MATLAB_GUI.md)
+![GUI](https://github.com/PEE-2019-ELO-COM/Lima_RSR_de_sinal_AM/blob/master/GUI%20APP%20SNR.PNG)
 
 
 Diagrama de Classes e Relacionamentos(corrigido):
