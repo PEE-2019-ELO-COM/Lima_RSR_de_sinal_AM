@@ -14,7 +14,7 @@ FLuxograma:
 ![Fluxograma](https://github.com/PEE-2019-ELO-COM/Lima_RSR_de_sinal_AM/blob/master/Fluxograma%20APP%20SNR.PNG)
 
 
-GUI:
+GUI Versão 1:
 
 ![GUI](https://github.com/PEE-2019-ELO-COM/Lima_RSR_de_sinal_AM/blob/master/GUI%20APP%20SNR.PNG)
 
