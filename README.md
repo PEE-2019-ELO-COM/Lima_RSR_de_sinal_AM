@@ -14,6 +14,15 @@ IMPORTANTE:
            
 3)Algumas funcionalidades, como a escolha do nome do arquivo e a SNR antes da demodulação, ainda não foram implementadas e                estão em desenvolvimento para a versão 2.0 do app.
 
+4)Na caixa de texto File Name, deve ser colocado o nome do arquivo .bin a ser utilizado para obter as amostras de sinal. Os arquivos obtidos pelo Radio Definido por Software do laboratório de Comunicações Analógicas e Digitais estão dentro da pasta deste repositório.
+
+5)A funcionalidade de cálculo de SNR antes da demodulação presente na versão 1 da GUI foi retirada pois não era prática teoricamente.
+
+Exemplo de funcionamento do App:
+
+Funcionamento do App:
+![Exemplo](https://github.com/PEE-2019-ELO-COM/Lima_RSR_de_sinal_AM/blob/master/Exemplo%20de%20funcionamento%20do%20SNR%20App.PNG)
+
 FLuxograma:
 ![Fluxograma](https://github.com/PEE-2019-ELO-COM/Lima_RSR_de_sinal_AM/blob/master/Fluxograma%20APP%20SNR.PNG)
 
@@ -22,6 +31,7 @@ GUI Versão 1:
 
 ![GUI](https://github.com/PEE-2019-ELO-COM/Lima_RSR_de_sinal_AM/blob/master/GUI%20APP%20SNR.PNG)
 
+![GUI v2](https://github.com/PEE-2019-ELO-COM/Lima_RSR_de_sinal_AM/blob/master/SNR%20App%20GUI%20V2.PNG)
 
 Diagrama de Classes e Relacionamentos(corrigido):
 ![Diagrama corrigido](https://github.com/PEE-2019-ELO-COM/Lima_RSR_de_sinal_AM/blob/master/Diagrama%20de%20Classes%20e%20Relacionamentos(corrigido).PNG)
