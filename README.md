@@ -18,6 +18,8 @@ IMPORTANTE:
 
 5)A funcionalidade de cálculo de SNR antes da demodulação presente na versão 1 da GUI foi retirada pois não era prática teoricamente.
 
+6)A versão inicial do SNR_Analyzer.mlapp(commitada no dia 20/11/2019) sem a funcionalidade de caixa de texto foi deletada para não gerar confusões na hora de executar o programa 
+
 Exemplo de funcionamento do App:
 ![Exemplo](https://github.com/PEE-2019-ELO-COM/Lima_RSR_de_sinal_AM/blob/master/Exemplo%20de%20funcionamento%20do%20SNR%20App.PNG)
 
@@ -34,6 +36,7 @@ GUI Versão 2:
 ![GUI v2](https://github.com/PEE-2019-ELO-COM/Lima_RSR_de_sinal_AM/blob/master/SNR%20App%20GUI%20V2.PNG)
 
 Diagrama de Classes e Relacionamentos(corrigido):
+
 ![Diagrama corrigido](https://github.com/PEE-2019-ELO-COM/Lima_RSR_de_sinal_AM/blob/master/Diagrama%20de%20Classes%20e%20Relacionamentos(corrigido).PNG)
 
 
