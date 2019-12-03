@@ -19,8 +19,6 @@ IMPORTANTE:
 5)A funcionalidade de cálculo de SNR antes da demodulação presente na versão 1 da GUI foi retirada pois não era prática teoricamente.
 
 Exemplo de funcionamento do App:
-
-Funcionamento do App:
 ![Exemplo](https://github.com/PEE-2019-ELO-COM/Lima_RSR_de_sinal_AM/blob/master/Exemplo%20de%20funcionamento%20do%20SNR%20App.PNG)
 
 FLuxograma:
@@ -30,6 +28,8 @@ FLuxograma:
 GUI Versão 1:
 
 ![GUI](https://github.com/PEE-2019-ELO-COM/Lima_RSR_de_sinal_AM/blob/master/GUI%20APP%20SNR.PNG)
+
+GUI Versão 2:
 
 ![GUI v2](https://github.com/PEE-2019-ELO-COM/Lima_RSR_de_sinal_AM/blob/master/SNR%20App%20GUI%20V2.PNG)
 
